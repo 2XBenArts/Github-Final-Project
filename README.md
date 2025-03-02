@@ -1,4 +1,5 @@
 ##Github Final Project
+
 A Calculator that calculates simple interest given principal, annual rate of rate of interest and time period in years.
 
 input:
